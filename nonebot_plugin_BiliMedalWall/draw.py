@@ -12,7 +12,7 @@ from matplotlib import font_manager
 
 resource_dir = Path(__file__).parent / "resources"
 
-font_manager.fontManager.addfont(f"{resource_dir}\\fonts\\LXGWWenKaiGB-Regular.ttf")
+font_manager.fontManager.addfont(f"{resource_dir}/fonts/LXGWWenKaiGB-Regular.ttf")
 plt.rcParams['font.sans-serif']="LXGW WenKai GB"
 
 def toBase64(image):
