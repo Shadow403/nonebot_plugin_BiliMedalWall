@@ -1,0 +1,10 @@
+/dict
+/.venv
+/.vscode
+/PyPiBuild
+**/__pycache__
+
+setup.py
+depot.git
+pyproject.toml
+requirements.txt
