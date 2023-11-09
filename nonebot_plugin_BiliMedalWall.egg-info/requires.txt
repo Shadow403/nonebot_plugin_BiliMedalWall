@@ -1,0 +1,6 @@
+nonebot2>=2.1.2
+nonebot-adapter-onebot>=2.3.1
+requests>=2.31.0
+jsonpath>=0.82.2
+matplotlib>=3.8.1
+pathlib>=1.0.1

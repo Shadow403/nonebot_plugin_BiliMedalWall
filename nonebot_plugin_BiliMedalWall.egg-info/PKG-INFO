@@ -1,0 +1,61 @@
+Metadata-Version: 2.1
+Name: nonebot-plugin-BiliMedalWall
+Version: 0.1.2
+Summary: Show BiliUsers MedalWall(info)
+Home-page: https://github.com/Shadow403/nonebot_plugin_BiliMedalWall
+Author: Shadow403
+Author-email: admin@shadow403.cn
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: nonebot2>=2.1.2
+Requires-Dist: nonebot-adapter-onebot>=2.3.1
+Requires-Dist: requests>=2.31.0
+Requires-Dist: jsonpath>=0.82.2
+Requires-Dist: matplotlib>=3.8.1
+Requires-Dist: pathlib>=1.0.1
+
+<div align="center">
+  <a href="https://v2.nonebot.dev/store"><img src="https://raw.githubusercontent.com/A-kirami/nonebot-plugin-template/resources/nbp_logo.png" width="180" height="180" alt="NoneBotPluginLogo"></a>
+  <br>
+  <p><img src="https://raw.githubusercontent.com/A-kirami/nonebot-plugin-template/c25343ec62cdd941a9dfe8f8d811bc118acd101b/NoneBotPlugin.svg" width="240" alt="NoneBotPluginText"></p>
+</div>
+
+<div align="center">
+
+# ✨nonebot_plugin_BiliMedalWall✨
+
+<div align=left> 
+
+<p align="center">
+  <img src=https://img.shields.io/github/stars/Shadow403/nonebot_plugin_BiliMedalWall.svg alt="Start">
+  <img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python">
+  <img src="https://img.shields.io/badge/nonebot-2.0.0+-red.svg" alt="NoneBot">
+  <img src="https://img.shields.io/badge/onebot-2.2.3+-darkgreen.svg" alt="OneBot">
+  <img src="https://img.shields.io/badge/version-0.1.2-yellow.svg" alt="Version">
+  </a>
+</p>
+
+### 安装方法
+
+```
+pip install nonebot_plugin_BiliMedalWall
+```
+
+### 食用方法
+```
+/buser <UID>
+```
+
+### 反馈问题
+邮箱：admin@shadow403.cn
+
+<details>
+<summary>[日志]展开/收起</summary>
+
+- 2022/10/03 [V0.1.0] 发布此插件
+- 2022/10/03 [V0.1.1] 更新插件依赖
+- 2022/10/03 [V0.1.2] 修复插件依赖

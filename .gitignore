@@ -6,5 +6,6 @@
 
 setup.py
 depot.git
+MANIFEST.in
 pyproject.toml
 requirements.txt

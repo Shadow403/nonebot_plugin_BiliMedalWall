@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+nonebot_plugin_BiliMedalWall/__init__.py
+nonebot_plugin_BiliMedalWall/api.py
+nonebot_plugin_BiliMedalWall/draw.py
+nonebot_plugin_BiliMedalWall.egg-info/PKG-INFO
+nonebot_plugin_BiliMedalWall.egg-info/SOURCES.txt
+nonebot_plugin_BiliMedalWall.egg-info/dependency_links.txt
+nonebot_plugin_BiliMedalWall.egg-info/requires.txt
+nonebot_plugin_BiliMedalWall.egg-info/top_level.txt
+nonebot_plugin_BiliMedalWall/resources/fonts/LXGWWenKaiGB-Regular.ttf
+nonebot_plugin_BiliMedalWall/resources/img/error.png

@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/nonebot-2.0.0+-red.svg" alt="NoneBot">
   <img src="https://img.shields.io/badge/onebot-2.2.3+-darkgreen.svg" alt="OneBot">
-  <img src="https://img.shields.io/badge/version-0.1.0-yellow.svg" alt="Version">
+  <img src="https://img.shields.io/badge/version-0.1.2-yellow.svg" alt="Version">
   </a>
 </p>
 
@@ -37,3 +37,5 @@ pip install nonebot_plugin_BiliMedalWall
 <summary>[日志]展开/收起</summary>
 
 - 2022/10/03 [V0.1.0] 发布此插件
+- 2022/10/03 [V0.1.1] 更新插件依赖
+- 2022/10/03 [V0.1.2] 修复插件依赖
